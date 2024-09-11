@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hEfS8+A7h1brFEBg1wZEjKMfxbJkCQwobBlmKr5GjqQ=",
+  "Source": "LogixCIS.Mobile.API",
+  "BasePath": "_content/LogixCIS.Mobile.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

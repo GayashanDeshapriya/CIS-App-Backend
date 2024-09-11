@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\LogixCIS.Auth.API.props" />
+</Project>

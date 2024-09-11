@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mHqEuY7fEYTg6nueboD0dYs+l5mDxwMUYQLXuT1k498=",
+  "Source": "LogixCIS.Auth.API",
+  "BasePath": "_content/LogixCIS.Auth.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
